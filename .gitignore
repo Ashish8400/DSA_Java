@@ -1,0 +1,12 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore backup files
+*~
+
+# Ignore IDE folders (like VS Code or IntelliJ)
+.vscode/
+.idea/
+
+# Mac system files
+.DS_Store
